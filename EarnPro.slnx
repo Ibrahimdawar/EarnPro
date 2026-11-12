@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EarnPro.Domain/EarnPro.Domain.csproj" />
+  <Project Path="EarnPro.Infrastructure/EarnPro.Infrastructure.csproj" />
+</Solution>
